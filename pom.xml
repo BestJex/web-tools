@@ -29,6 +29,8 @@
         <module>qr-code</module>
         <!-- redis消息队列  -->
         <module>redis-tool</module>
+        <!-- 图片上传显示  -->
+        <module>imageUpload-tool</module>
     </modules>
 
 
